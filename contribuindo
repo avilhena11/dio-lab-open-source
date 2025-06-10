@@ -1,0 +1,19 @@
+# Nome do Projeto
+
+Descrição breve e objetiva do que o projeto faz.
+
+## 🚀 Demonstração
+
+Se possível, adicione uma imagem, GIF ou link para uma demo.
+
+## 📦 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse a pasta do projeto
+cd seu-repositorio
+
+# Instale as dependências
+npm install
